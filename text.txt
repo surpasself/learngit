@@ -1,4 +1,1 @@
-learn git
-wanghonglin
-fenzhi
-text
+summary
