@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 summary
+wanghonglin
+=======
+Git is a version control system.
+Git is free software.
+>>>>>>> 69a06e55451870a98ae0000a4724214d01ecaca0
